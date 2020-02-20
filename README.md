@@ -15,7 +15,7 @@ Start out by deleting `.env` file and removing everything in `schema.prisma` fil
 ![image over code](prisma.png)
 
 
-also make sure that you create an empty `dev.db` in the same folder as `schema.prisma`
+also make sure that you created an empty `dev.db` in the same folder as `schema.prisma`
 
 
 You also have make sure that you have created a local sqlite database.
