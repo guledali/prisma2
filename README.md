@@ -31,7 +31,7 @@ ubuntu
 Mac
 `brew install sqlite`
 
-Then Run the following command in your terminal 
+cd into the prisma directory then, run the following command in your terminal! 
 
 
 ![sql](carbon.png)
